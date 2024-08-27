@@ -3,8 +3,8 @@ class slip1
 {
 public static void main(String args[])
 {
-char c;
-for(c='a'; c<='z'; c++)
-System.out.print(c+"");
+char ch;
+for(ch='A';ch<='z';ch++)
+System.out.println("the alphabets are:"+ch);
 }
 }
